@@ -1,0 +1,15 @@
+{
+    "name": "Half-Vastaya",
+    "description": "Un ser mitad humano, mitad bestia espiritual, forjado para el combate cuerpo a cuerpo. Mientras mas heridas recibe en batalla, mas crece su fuerza y resistencia. Cada golpe que soporta alimenta una Furia interior que, al desbordarse, se libera en un golpe dorado en cono capaz de ignorar cualquier armadura.",
+    "icon": {
+        "item": "minecraft:cooked_porkchop"
+    },
+    "impact": 3,
+    "order": 0,
+    "unchoosable": false,
+    "powers": [
+        "halfvastaya:origin_link",
+        "halfvastaya:info_levels",
+        "halfvastaya:info_fury"
+    ]
+}

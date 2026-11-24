@@ -1,0 +1,5 @@
+{
+    "type": "apoli:simple",
+    "name": "Evolucion por heridas",
+    "description": "Las heridas de criaturas y de otros jugadores te hacen evolucionar: Nivel II (+2.5 ataque, +3 armadura) y Nivel III (+3.5 ataque, +4 armadura mas). Abre el panel con la tecla G."
+}

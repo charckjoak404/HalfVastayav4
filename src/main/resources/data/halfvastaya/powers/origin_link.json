@@ -1,0 +1,11 @@
+{
+    "type": "apoli:action_over_time",
+    "interval": 40,
+    "entity_action": {
+        "type": "apoli:execute_command",
+        "command": "tag @s add halfvastaya_origin"
+    },
+    "name": "Vinculo del Half-Vastaya",
+    "description": "Conecta tu origen con el mod Half-Vastaya (niveles, Furia y golpe en cono).",
+    "hidden": true
+}
